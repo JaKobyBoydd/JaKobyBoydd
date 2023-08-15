@@ -6,5 +6,5 @@
   - [osTicket: Prerequisites and Installation](https://github.com/JaKobyBoydd/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/JaKobyBoydd/post-install-config)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Creating VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Setting up a Domain Controller](https://github.com/joshmadakorcc/azure-network-protocols)
