@@ -1,4 +1,4 @@
-<h1>Hi, I'm JaKoby</h1>
+<h1>Hi, I'm JaKoby Boyd</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
